@@ -1,0 +1,6 @@
+{
+  "liveServerLite.watcher.largeProjectOptimization": true,
+  "liveServerLite.ignoreFiles": ["node_modules/**", "dist/**", "build/**"],
+  "liveServerLite.debounceDelay": 1000,
+  "liveServerLite.performance.memoryThreshold": 500
+}
